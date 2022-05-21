@@ -44,6 +44,9 @@
       git config --global user.email "email"
       git config --list
       ```
+    - `ssh-keygen -t rsa -b 4096 -C "email@example.com"`  
+    - `cat ~/.ssh/id_rsa.pub` 통해 Github page > Settings >SSH keys 등록
+    - `ssh -T git@github.com` > `yes` 입력 >> 계속 git 사용할 수 있게 
 
 - [iTerm2](https://iterm2.com/)
     - 맥의 기본 Terminal을 대체할 수 있는 터미널 에뮬레이터
