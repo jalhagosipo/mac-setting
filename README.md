@@ -16,6 +16,9 @@
 ## 프로그램 세팅
 - [크롬](https://www.google.co.kr/chrome/?brand=CHBD&gclsrc=aw.ds&gclid=Cj0KCQjwspKUBhCvARIsAB2IYus25zswGahCX5nDvdgUz8wLFS1nxHRTNhcFBHB5b3pLKSJcDH1_8vEaAhItEALw_wcB)
 - 카카오톡: 앱스토어
+- [인텔리제이](https://www.jetbrains.com/idea/)
+- 슬랙 : 앱스토어
+- 포스트맨 : 앱스토어
 
 ## CLI 세팅
 - Homebrew
