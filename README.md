@@ -32,6 +32,13 @@
     - Text-mode interface for git
     - `brew install tig`
 
+- git
+    - `brew install git`
+    - ```
+      git config --global user.name "jalhagosipo"
+      git config --global user.email "email"
+      git config --list
+      ```
 
 - [iTerm2](https://iterm2.com/)
     - 맥의 기본 Terminal을 대체할 수 있는 터미널 에뮬레이터
