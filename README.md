@@ -18,7 +18,9 @@
 - 카카오톡: 앱스토어
 - [인텔리제이](https://www.jetbrains.com/idea/)
 - 슬랙 : 앱스토어
-- 포스트맨 : 앱스토어
+- [포스트맨](https://www.postman.com/downloads/)
+- [Docker](https://docs.docker.com/desktop/mac/apple-silicon/)
+    - (m1) `softwareupdate --install-rosetta` 후 설치
 
 ## CLI 세팅
 - Homebrew
